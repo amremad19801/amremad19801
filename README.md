@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr Emad</h1>
-  <h3 align="center">I am a junior student at Cairo University Faculty of Engineering.</h3>
+  <h3 align="center">I am a junior Electronics and Electrical Communications student at Cairo University Faculty of Engineering.</h3>
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amremad19801" alt="amremad19801" /></a>
   </p>
