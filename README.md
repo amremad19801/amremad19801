@@ -44,7 +44,7 @@
 </p>
 
 <p>
-  <img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=amremad19801&" alt="amremad19801" width="200" height="200"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amremad19801&" alt="amremad19801" width="200" height="200"/>
 </p>
 
 <p align="left">
