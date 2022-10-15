@@ -36,15 +36,15 @@
 </p>
 
 <p>
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=amremad19801&show_icons=true&locale=en&layout=compact" alt="amremad19801" width="200" height="200"/>
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=amremad19801&show_icons=true&locale=en&layout=compact" alt="amremad19801"/>
 </p>
 
 <p>
-  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=amremad19801&show_icons=true&locale=en" alt="amremad19801" width="200" height="200"/>
+  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=amremad19801&show_icons=true&locale=en" alt="amremad19801"/>
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amremad19801&" alt="amremad19801" width="700" height="700"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amremad19801&" alt="amremad19801"/>
 </p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=amremad19801&label=Profile%20views&color=0e75b6&style=flat" alt="amremad19801" />
