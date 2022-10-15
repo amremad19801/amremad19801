@@ -9,9 +9,7 @@
   <p align="left">
     <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
   </p>
-
 - 📫 How to reach me **amremad19801@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/amr-lamie-107766213" target="blank">
@@ -47,5 +45,5 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amremad19801&" alt="amremad19801" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amremad19801&" alt="amremad19801" />
 </p>
