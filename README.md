@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/amr lamie](https://www.linkedin.com/in/amr-lamie-107766213)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amr lamie" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amr-lamie-107766213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amr lamie" height="30" width="40" /></a>
 <a href="https://fb.com/amr.emad.1681" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amr.emad.1681" height="30" width="40" /></a>
 </p>
 
