@@ -54,7 +54,9 @@
   </a>
   <a href="https://instagram.com/amr._.emad" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amr._.emad" height="30" width="40" /></a>
-  <p align="left">- 📫 How to reach me amremad19801@gmail.com</p>
+  
+  - 📫 How to reach me **amremad19801@gmail.com**
+  
 </p>
 
 <p align="left">
