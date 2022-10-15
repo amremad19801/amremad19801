@@ -8,10 +8,6 @@
   <p align="left">
     <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
   </p>
-  
-<p align="left">
-  - 📫 How to reach me amremad19801@gmail.com
-</p>
 
 <h2 align="center">Programming Languages and Simulation Tools</h3>
 
@@ -54,4 +50,5 @@
   <a href="https://fb.com/amr.emad.1681" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amr.emad.1681" height="30" width="40" />
   </a>
+  <p align="left">- 📫 How to reach me amremad19801@gmail.com</p>
 </p>
