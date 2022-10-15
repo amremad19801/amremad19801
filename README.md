@@ -13,7 +13,7 @@
   - 📫 How to reach me amremad19801@gmail.com
 </p>
 
-<h3 align="center">Programming Languages and Simulation Tools</h3>
+<h2 align="center">Programming Languages and Simulation Tools</h3>
 
 <p align="center">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -45,7 +45,7 @@
   <img src="https://komarev.com/ghpvc/?username=amremad19801&label=Profile%20views&color=0e75b6&style=flat" alt="amremad19801" />
 </p>
 
-<h3 align="left">Connect with me</h3>
+<h2 align="center">Connect with me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amr-lamie-107766213" target="blank">
