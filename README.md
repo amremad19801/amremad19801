@@ -44,7 +44,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amremad19801&" alt="amremad19801" width="800" height="800"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amremad19801&" alt="amremad19801" width="700" height="700"/>
 </p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=amremad19801&label=Profile%20views&color=0e75b6&style=flat" alt="amremad19801" />
